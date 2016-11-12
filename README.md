@@ -1,2 +1,2 @@
 # spectral
-[img spect.png]
+![screenshot](spect.png)
